@@ -1,0 +1,40 @@
+#main  {
+  text-align: center;
+  background: #00538C;
+  color: #B8C4CA;
+}
+#title {
+  text-align: center;
+  font-size: 50px;
+  color: #B8C4CA;
+}
+#title-description {
+  text-align: center;
+  font-size: 28px;
+  color: #B8C4CA;
+}
+#img-div {
+  text-align: center;
+}
+#img-caption {
+  text-align: center;
+}
+ul {
+  text-align: left;
+  max-width: 800px;
+  margin: 0 auto 50px auto;
+  line-height: 20px;
+  padding: 25px;
+  font-size: 20px
+}
+li {
+  padding: 15px;
+}
+#closing-p {
+  font-size: 20px;
+}
+img {
+  display: block;
+  margin: auto auto auto auto;
+  max-width: 100%;
+}
